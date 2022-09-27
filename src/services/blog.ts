@@ -1,4 +1,5 @@
-import { blog } from "../models/blog";
+import blog from "../models/blog";
+import mongoose from "mongoose";
 
 export default class BlogServices{
     
